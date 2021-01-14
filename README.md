@@ -1,4 +1,4 @@
-# Important! This repository is over 5 years old, is not maintained anymore, and is likely not up to date with best security practices! Please don't use it any production system, I've kept it around in archive-only mode for educational purposes.
+
 
 # NodeJS secure RESTFUL api
 
